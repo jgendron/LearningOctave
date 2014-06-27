@@ -12,7 +12,12 @@ These notes capture the key code from the Octave software tutorial as presented 
 [Vectorization](#vector)  
 
 
-<a name="code"/>
-## Code and Syntax Highlighting
 
-Code blocks are part of  
+<a name="BasicOps"/>
+## Basic Operations  
+
+```
+5 + 6  
+
+3 - 2  
+```
